@@ -1,5 +1,6 @@
 title: Pragati Bandhya Huvappa Gowda
 #logo: 
-theme: pages-themes/cayman@v0.2.0
+#theme: pages-themes/cayman@v0.2.0
+theme: jekyll-theme-cayman
 #theme: jekyll-theme-minimal
 #plugins: jekyll-remote-theme
